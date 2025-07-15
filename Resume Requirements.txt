@@ -1,0 +1,310 @@
+What does a resume look like?
+Your resume should include the following sections:
+
+Heading
+Skills
+Projects
+Experience
+Education
+Consider the following example of a resume for Jenny Smith, who is looking to pursue a Senior Front-End Developer role:
+
+
+We recommend the following orders for these sections:
+
+Heading, Skills, Projects in that order; Experience and Education in any order.
+Heading; Education or Experience in any order; Projects, Skills in that order.
+When determining the order of the sections in your resume, choose the one that best highlights your qualifications based on the job description for your desired role.
+
+Note, that a different resume order from the ones we've suggested is acceptable if other sections that are most impactful for the desired role need to be prioritized.
+
+Project: Resume Review Career Service
+Targeted For Profession
+Criteria	Submission Requirements
+Resume is targeted to a specific job or field.
+
+Prove the ability to succeed in job’s responsibilities in one of the following ways:
+If past experiences are not related to the job field or past work includes industry experience in a different role, resume includes a summary statement (1-2 sentences) that talks about how those experiences support the new career path and how past work or achievements transfer to desired role's responsibilities.
+If past experience relates to the job field, the resume includes relevant keywords, skills, and experiences
+General
+Criteria	Submission Requirements
+Resume meets industry formatting standards.
+
+Resume is the appropriate length for showcasing the user's professional background:
+Entry-level job applicant resumes should only be 1 page maximum.
+For candidates with 10+ years of work experience, any experience 5+ years ago should be limited to job title and company unless deeply relevant to the job posting.
+Resume is in PDF format.
+Links are hyperlinked.
+Resume uses one of the following standard orders:
+Heading, Skills, Projects in that order; Experience and Education in any order.
+Heading; Education or Experience in any order; Projects, Skills in that order.
+Resume is concise and free of extraneous information with no spelling or grammatical errors.
+
+Spelling and grammar are correct.
+Correct tense is used in bullet points (past tense for previous, current tense for ongoing) and consistent.
+Resume does not include: age, gender, marital status, photo, or mention of references.
+Resume uses positive language.
+Resume does not indicate that the candidate is seeking a job because this may be extraneous or redundant information.
+Resume style is clean and organized, allowing the reader to easily digest the information.
+
+Name is at the top of the page and larger than other text.
+Section headings, company names, and titles are made distinct from other text through capitalization or bolded font.
+Content is horizontally optimized in the following ways:
+Uses space well for a reader to scan from top to bottom.
+Condenses lists for single words to the same line.
+There are no lines that are words “dangling” from the end of the previous line’s sentence.
+Resume has a consistent format and professional visual style.
+
+All text is aligned to the left and/or right axis.
+Within sections (ie: bullet points) or groups (ie: headers), there are no inconsistencies in the following:
+font color
+type or size
+margin-size
+spacing
+Font is professional. Examples are serif fonts like Times New Roman or sans-serif fonts like Verdana.
+Bullet points and formatting such as bolded font are consistent across all sections.
+Heading
+Criteria	Submission Requirements
+Provides necessary contact information.
+
+Heading includes:
+
+Full name
+Phone number
+Email
+Location
+Links to LinkedIn, GitHub and/or personal website
+Education
+Criteria	Submission Requirements
+Includes relevant education, such as but not limited to community college courses, online courses, bootcamps, etc.
+
+Relevant and recent education is included.
+If the candidate is working on/has completed a Nanodegree program, it should be included in this section, even if incomplete
+Any college, including major and/or relevant courses, are included.
+For incomplete education that is not in progress, users can frame this experience positively by focusing on what they did complete. For example: "60 credits toward a Bachelor's degree in Computer Science" or "Courses completed in computer science, design, communications."
+Skills
+Criteria	Submission Requirements
+Relevant skills are listed.
+
+Relevant and challenging technologies such as programming languages, frameworks, version control systems, databases, operating systems, image/video/audio editing software, etc. are listed, with ones of the highest level of proficiency mentioned first.
+Skills should only be technical or specialized to the job, and must to be relevant to the desired role.
+Conveys level of expertise for the skills listed. This can be done in a few ways, such as:
+For candidates with a wide range of skills, an experience scale can show that they are well-rounded and have expertise in certain areas.
+Skills can also be segmented under categories such as “proficient” and “moderate” for better readability.
+Microsoft Office, Google Drive, Mac & PC are not listed (unless the job description specifies that they are needed), because it is assumed someone knows or can quickly learn these skills.
+Projects
+Criteria	Submission Requirements
+Includes 2-3 projects that demonstrate skill.
+
+Only most relevant projects are listed starting with most recent. This can include personal, academic or work projects.
+Only includes about 2-3 projects.
+Each project includes the information:
+Title of project
+Start and end date
+Any other key information, such as if it were a competition
+Bullet points are concise and focus on individual actions and project results.
+
+Maximum 2-3 bullet points per project.
+Within each project:
+At least 1 bullet point demonstrates individual contribution.
+At least 1 bullet point communicates project result (success metrics, findings).
+Experience
+Criteria	Submission Requirements
+Basic information for each experience is consistent.
+
+Each experience includes the following:
+Company/organization
+Title of role
+Start and end date (month & year)
+Location
+Includes at least one work experience.
+
+Determine the appropriate number of work experiences, depending on the user's individual background:
+Entry-level resumes should include all previous roles to demonstrate work history, including internships and volunteer roles. If the user has no experiences, consider if it would be appropriate to market themselves as an independent or freelance worker.
+People with resumes with less than 2 work experiences should consider adding another project in the Project section.
+People with more than 4 work experiences should decrease the number of bullet points for older roles. Any roles from 10+ years ago (unless highly relevant to the desired role) or short/redundant roles that don’t create a large gap in work history do not need to be included.
+Bullet points are concise and focus on individual actions and results without summarizing the job description.
+
+Maximum 4 bullet points; there should be no sub-bullet points.
+Bullet points start with action verbs.
+Within each job listing:
+At least 1 bullet point communicates how candidate benefited company or cause.
+At least 1 bullet point provides concrete, numerical evidence such as projects completed, money made, people managed, accomplishments (eg. % increase).
+Bullet points are one sentence maximum, not longer than one-and-a-half lines.
+
+Submission Instructions
+Once you click on the "submit project" button, you will be taken to a submission page to upload your resume and input any additional details.
+
+What to Submit
+Required
+A .pdf of your 1-page resume
+Intended job field (ie: "data analyst" or "social media manager")
+Recommended
+Include a job posting under “Additional Details” on the project submission page. Copy and paste the text of the job posting that you wish to apply to or that you are looking for; do not copy the job posting link, which can expire at any time. Pro Tip: If you’re more than 75% qualified for the job on paper, you’re probably a good candidate and should give applying a shot!
+Remove any sensitive information, such as your phone number, from the resume if you do not wish to share it.
+
+Professional Resume Checklist
+
+General
+
+𝥷 My resume fits on one page and is in PDF format.
+
+𝥷 The links in my resume are hyperlinked.
+
+𝥷 My resume uses one of the following standard orders:
+
+Heading, Skills, Projects, Experience, Education
+Heading, Education, Skills, Projects, Experience
+
+𝥷 The spelling and grammar in my resume are correct.
+
+𝥷 My resume does not include: age, gender, marital status, photo, or mention of references.
+
+𝥷 My resume does not include negative language.
+
+𝥷 My resume does not indicate that I am seeking a job. (This may be extraneous or redundant
+
+    information).
+
+
+𝥷 I align all of the text in my resume to left and/or right axis.
+
+𝥷 The company name and title are emphasized/distinct in my resume.
+
+𝥷 The content in my resume is optimized for horizontal space. My resume uses space well for
+
+    a reader reading from top to bottom.
+
+𝥷 I condense lists of single words to the same line.
+
+𝥷 The section headings in my resume are distinct from other text.
+
+𝥷 My name is at the top of the page and is larger than other text on my resume.
+
+𝥷 My resume formatting is consistent throughout - from section headers to bullet point
+
+   alignment.
+
+
+Hiring Perspective: A nice resume design allows the reader to more easily focus on the content. When there are inconsistencies - such as misalignment - the reader's eye is instead focused on those design errors rather than the words on the resume. Employers and recruiters may perceive you as lacking attention to detail or unprofessional.
+
+
+Tip: Consider examples of resume formats at Resume Builder and Resume Genius. Use a grammar checker like Grammarly to catch any basic mistakes. However, online grammar checkers aren’t perfect, so you should always personally proofread or have another person look it over for errors in case any were missed. See more proofreading tips here.
+
+
+Targeted for Profession
+
+𝥷 My resume is targeted to a specific job. (General resumes tend to not be effective).
+
+𝥷 My resume includes keywords, experiences, and skills specific to the job.
+
+𝥷 I include experiences that showcase successes with my job responsibilities.
+
+
+Hiring Perspective: Employers and recruiters have to comb through thousands of applications each day. You will stand out better against the competition by highlighting skills and experiences that align with the job posting that you applied for.
+
+
+Tip: If your past experiences are not related to the job field, include an objective statement, which is 1-2 sentences and explains how your past experiences support your new career path.
+
+Consider this advice as you write it.
+
+
+Heading
+
+𝥷 My resume heading includes: my full name, phone number, email and location.
+
+𝥷 I include links to my LinkedIn, GitHub and/or personal website. If relevant, I also include
+
+    links to my professional Twitter or other social media accounts.
+
+
+Hiring Perspective: It’s essential to include your contact information in the heading to ensure recruiters and employers can easily follow-up with you.
+
+
+Tip: Sometimes people include their full home address in their heading. Although not necessarily "incorrect" to do so, please know that this practice is not an industry standard anymore. Instead, you can just include their location (ie: San Francisco Bay Area; Bangalore, India) instead of an address. 
+
+
+Education
+
+𝥷 I include my Nanodegree program in this section, even if currently incomplete.
+
+𝥷 I include any college, including major or courses.
+
+𝥷 If applicable, I include relevant courses (from university, community college, online, etc.)
+
+   in this section of my resume.
+
+
+Hiring Perspective: Employers and recruiters want to see relevant education if possible—like a Udacity Nanodegree program—that demonstrates initiative to learn relevant skills. The tech industry is constantly changing, so employers typically want to hire a person personally driven enough to stay on the cutting edge of the field even after being hired in a role.
+
+
+Tip:  If you have a technical or relevant university degree, highlight that over other education. If there is incomplete education that is not in progress, frame this experience positively by focusing on what you did complete. For example: "60 credits toward a bachelor's degree in Computer Science" or "Courses completed in computer science, design, communications." Finally, be sure to spell "Nanodegree" correctly. All Nanodegree programs are listed on Udacity.
+
+
+Skills
+
+𝥷 I list relevant and challenging technologies. These include: programming languages,
+
+   frameworks, version control systems, databases, operating systems, image/video/audio
+
+   editing software, etc.
+
+
+Hiring Perspective: While you may be tempted to include as many skills as possible to appear impressive, employers are only concerned with seeing the skills mentioned in the job posting, so including other skills will look like extraneous information.
+
+
+Tip: Review your skills to confirm the technologies mentioned are relevant to the job(s) you’re pursuing. If your resume displays a wide range of skills, note which skills are of particular expertise. Avoid listing technologies like Microsoft Office, Google Drive, Mac & PC, etc. It is assumed someone knows or can easily learn these skills.
+
+
+Projects
+
+𝥷 I list only the most relevant projects on my resume. (These projects can include my
+
+   personal, academic or work projects).
+
+𝥷 I only include about 2-3 projects.
+
+𝥷 I use a maximum 2-3 bullet points per project.
+
+At least 1 of these bullet point demonstrates an individual contribution.
+At least 1 of these bullet point communicates a project result (success metrics, findings).
+
+Hiring Perspective: It’s essential for you to highlight concrete project results and individual contributions because employers want to see concrete evidence of your skills.
+
+
+Tip: Whenever you can, describe your work quantitatively. If you can’t due to the nature of your work, still showcase its success, even when what you achieved wasn’t what you originally intended. If you have less than 3 work experiences, try to supplement by adding another project to your Project section.
+
+
+Experience
+
+𝥷 For each experience listed in this section, I note the company/organization, the title of
+
+   role, start and end date (month & year), and location.
+
+𝥷 (If applicable) I include unpaid or part-time work, but omitted the words “part-time” and
+
+    “unpaid” to prevent bias.
+
+𝥷 I use a maximum 3-4 bullet points for each experience listed, and did not use sub-bullet
+
+   points.
+
+𝥷 My bullet point statements start with action verbs.
+
+𝥷 I use the correct tense in bullet point statements: past tense for previous experience,
+
+   current tense for ongoing experience.
+
+𝥷 Within each job listing, I include:
+
+At least 1 bullet point that communicates how I benefited company or cause.
+At least 1 bullet point that provides concrete, numerical evidence such as projects completed, money made, people managed, accomplishments (eg. % increase).
+𝥷 My bullet point statements are one sentence maximum, and are not longer than one and a
+
+    half lines.
+
+
+Hiring Perspective: An employer only wants you if you can complete work assignments, multitask, and deliver results. This means not only having the technical skills, but also the soft skills to work and communicate well with other team members.
+
+
+Tip: If you are making a career change and already have professional experience in a different field, try to focus on highlighting valuable soft skills such as team collaboration or public speaking in your work experience, as these are often transferable and important across different industries. If you need help thinking of action verbs to describe your work experiences, check out UC Berkeley’s list of resume action verbs here.
+
